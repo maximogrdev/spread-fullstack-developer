@@ -17,3 +17,4 @@ const animal = {
 }
 console.log(calculaIdde.call(pessoa2, 60))
 console.log(calculaIdde.apply(pessoa1, [60]))
+console.log(calculaIdde.apply(animal, [6]))

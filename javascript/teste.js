@@ -1,8 +1,7 @@
 function soma (a, b){
     return a + b;
-
+    
+    
 }
 
-soma(5, 1);
-
-console.log(soma)
+console.log(soma(2,8))
